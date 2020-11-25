@@ -1,0 +1,51 @@
+ 
+[
+  {
+    "author": "Chinua Achebe", 
+    "imageLink": "images/things-fall-apart.jpg", 
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "catalogID": 209,
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "author": "Hans Christian Andersen", 
+    "imageLink": "images/fairy-tales.jpg", 
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "catalogID": 784,
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "author": "Dante Alighieri", 
+    "imageLink": "images/the-divine-comedy.jpg", 
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "catalogID": 928,
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "author": "Unknown", 
+    "imageLink": "images/the-epic-of-gilgamesh.jpg", 
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "author": "Jane Austen", 
+    "imageLink": "images/pride-and-prejudice.jpg", 
+    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "catalogID": 226,
+    "title": "Pride and Prejudice",
+    "year": 1813
+  },
+  {
+    "author": "Honor\u00e9 de Balzac", 
+    "imageLink": "images/le-pere-goriot.jpg", 
+    "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+    "catalogID": 443,
+    "title": "Le P\u00e8re Goriot",
+    "year": 1835
+  }
+]
